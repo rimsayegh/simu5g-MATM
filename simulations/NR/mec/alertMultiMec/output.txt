@@ -1,0 +1,467 @@
+Simulation started at 0
+The location service is in the mecHost: (omnetpp::cModule)mecHost1 id=64
+Simulation started at 0
+The location service is in the mecHost: (omnetpp::cModule)mecHost2 id=65
+Simulation started at 0
+The location service is in the mecHost: (omnetpp::cModule)mecHost3 id=66
+The request Id in the Orchestrator is : 0
+The ueAppID in the Orchestrator- StartMecApp- is : 623
+The request Id in the Orchestrator is : 1
+The ueAppID in the Orchestrator- StartMecApp- is : 831
+The request Id in the Orchestrator is : 2
+The ueAppID in the Orchestrator- StartMecApp- is : 2339
+The request Id in the Orchestrator is : 3
+The ueAppID in the Orchestrator- StartMecApp- is : 935
+The request Id in the Orchestrator is : 4
+The ueAppID in the Orchestrator- StartMecApp- is : 2391
+The request Id in the Orchestrator is : 5
+The ueAppID in the Orchestrator- StartMecApp- is : 987
+The request Id in the Orchestrator is : 6
+The ueAppID in the Orchestrator- StartMecApp- is : 1975
+Send Create Context ACK, the contextId is: -1707525and the RequestId is:0
+The request Id in the Orchestrator is : 7
+The ueAppID in the Orchestrator- StartMecApp- is : 3067
+The request Id in the Orchestrator is : 8
+The ueAppID in the Orchestrator- StartMecApp- is : 2755
+The request Id in the Orchestrator is : 9
+The ueAppID in the Orchestrator- StartMecApp- is : 1195
+The request Id in the Orchestrator is : 10
+The ueAppID in the Orchestrator- StartMecApp- is : 1247
+The request Id in the Orchestrator is : 11
+The ueAppID in the Orchestrator- StartMecApp- is : 2079
+The request Id in the Orchestrator is : 12
+The ueAppID in the Orchestrator- StartMecApp- is : 1039
+The request Id in the Orchestrator is : 13
+The ueAppID in the Orchestrator- StartMecApp- is : 2131
+The request Id in the Orchestrator is : 14
+The ueAppID in the Orchestrator- StartMecApp- is : 2183
+The request Id in the Orchestrator is : 15
+The ueAppID in the Orchestrator- StartMecApp- is : 2287
+The request Id in the Orchestrator is : 16
+The ueAppID in the Orchestrator- StartMecApp- is : 2443
+The request Id in the Orchestrator is : 17
+The ueAppID in the Orchestrator- StartMecApp- is : 2599
+Send Create Context ACK, the contextId is: -1707524and the RequestId is:1
+Send Create Context ACK, the contextId is: -1707523and the RequestId is:2
+Send Create Context ACK, the contextId is: -1707522and the RequestId is:3
+Send Create Context ACK, the contextId is: -1707521and the RequestId is:4
+Send Create Context ACK, the contextId is: -1707520and the RequestId is:5
+The request Id in the Orchestrator is : 18
+The ueAppID in the Orchestrator- StartMecApp- is : 1819
+The request Id in the Orchestrator is : 19
+The ueAppID in the Orchestrator- StartMecApp- is : 1871
+Send Create Context ACK, the contextId is: -1707519and the RequestId is:6
+The request Id in the Orchestrator is : 20
+The ueAppID in the Orchestrator- StartMecApp- is : 3015
+The request Id in the Orchestrator is : 21
+The ueAppID in the Orchestrator- StartMecApp- is : 2495
+The request Id in the Orchestrator is : 22
+The ueAppID in the Orchestrator- StartMecApp- is : 1091
+The request Id in the Orchestrator is : 23
+The ueAppID in the Orchestrator- StartMecApp- is : 2547
+The request Id in the Orchestrator is : 24
+The ueAppID in the Orchestrator- StartMecApp- is : 1143
+The request Id in the Orchestrator is : 25
+The ueAppID in the Orchestrator- StartMecApp- is : 2859
+The request Id in the Orchestrator is : 26
+The ueAppID in the Orchestrator- StartMecApp- is : 675
+The request Id in the Orchestrator is : 27
+The ueAppID in the Orchestrator- StartMecApp- is : 1923
+The request Id in the Orchestrator is : 28
+The ueAppID in the Orchestrator- StartMecApp- is : 2235
+Send Create Context ACK, the contextId is: -1707518and the RequestId is:7
+Send Create Context ACK, the contextId is: -1707517and the RequestId is:8
+Send Create Context ACK, the contextId is: -1707516and the RequestId is:9
+Send Create Context ACK, the contextId is: -1707515and the RequestId is:10
+Send Create Context ACK, the contextId is: -1707514and the RequestId is:11
+Send Create Context ACK, the contextId is: -1707513and the RequestId is:12
+Send Create Context ACK, the contextId is: -1707512and the RequestId is:13
+Send Create Context ACK, the contextId is: -1707511and the RequestId is:14
+Send Create Context ACK, the contextId is: -1707510and the RequestId is:15
+Send Create Context ACK, the contextId is: -1707509and the RequestId is:16
+Send Create Context ACK, the contextId is: -1707508and the RequestId is:17
+The request Id in the Orchestrator is : 29
+The ueAppID in the Orchestrator- StartMecApp- is : 1715
+Send Create Context ACK, the contextId is: -1707507and the RequestId is:18
+Send Create Context ACK, the contextId is: -1707506and the RequestId is:19
+The request Id in the Orchestrator is : 30
+The ueAppID in the Orchestrator- StartMecApp- is : 727
+The request Id in the Orchestrator is : 31
+The ueAppID in the Orchestrator- StartMecApp- is : 2027
+Send Create Context ACK, the contextId is: -1707505and the RequestId is:20
+The request Id in the Orchestrator is : 32
+The ueAppID in the Orchestrator- StartMecApp- is : 2807
+The request Id in the Orchestrator is : 33
+The ueAppID in the Orchestrator- StartMecApp- is : 883
+Send Create Context ACK, the contextId is: -1707504and the RequestId is:21
+Send Create Context ACK, the contextId is: -1707503and the RequestId is:22
+Send Create Context ACK, the contextId is: -1707502and the RequestId is:23
+Send Create Context ACK, the contextId is: -1707501and the RequestId is:24
+Send Create Context ACK, the contextId is: -1707500and the RequestId is:25
+Send Create Context ACK, the contextId is: -1707499and the RequestId is:26
+Send Create Context ACK, the contextId is: -1707498and the RequestId is:27
+Send Create Context ACK, the contextId is: -1707497and the RequestId is:28
+The request Id in the Orchestrator is : 34
+The ueAppID in the Orchestrator- StartMecApp- is : 3119
+The request Id in the Orchestrator is : 35
+The ueAppID in the Orchestrator- StartMecApp- is : 1559
+The request Id in the Orchestrator is : 36
+The ueAppID in the Orchestrator- StartMecApp- is : 1611
+The request Id in the Orchestrator is : 37
+The ueAppID in the Orchestrator- StartMecApp- is : 2911
+The request Id in the Orchestrator is : 38
+The ueAppID in the Orchestrator- StartMecApp- is : 1299
+The request Id in the Orchestrator is : 39
+The ueAppID in the Orchestrator- StartMecApp- is : 1351
+The request Id in the Orchestrator is : 40
+The ueAppID in the Orchestrator- StartMecApp- is : 1403
+The request Id in the Orchestrator is : 41
+The ueAppID in the Orchestrator- StartMecApp- is : 1455
+Send Create Context ACK, the contextId is: -1707496and the RequestId is:29
+Send Create Context ACK, the contextId is: -1707495and the RequestId is:30
+Send Create Context ACK, the contextId is: -1707494and the RequestId is:31
+Send Create Context ACK, the contextId is: -1707493and the RequestId is:32
+Send Create Context ACK, the contextId is: -1707492and the RequestId is:33
+The request Id in the Orchestrator is : 42
+The ueAppID in the Orchestrator- StartMecApp- is : 2651
+The request Id in the Orchestrator is : 43
+The ueAppID in the Orchestrator- StartMecApp- is : 2703
+The request Id in the Orchestrator is : 44
+The ueAppID in the Orchestrator- StartMecApp- is : 1663
+Send Create Context ACK, the contextId is: -1707491and the RequestId is:34
+Send Create Context ACK, the contextId is: -1707490and the RequestId is:35
+Send Create Context ACK, the contextId is: -1707489and the RequestId is:36
+Send Create Context ACK, the contextId is: -1707488and the RequestId is:37
+Send Create Context ACK, the contextId is: -1707487and the RequestId is:38
+Send Create Context ACK, the contextId is: -1707486and the RequestId is:39
+Send Create Context ACK, the contextId is: -1707485and the RequestId is:40
+Send Create Context ACK, the contextId is: -1707484and the RequestId is:41
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4001
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4002
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4003
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4003
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4001
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4004
+The request Id in the Orchestrator is : 45
+The ueAppID in the Orchestrator- StartMecApp- is : 3171
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4004
+Send Create Context ACK, the contextId is: -1707483and the RequestId is:42
+Send Create Context ACK, the contextId is: -1707482and the RequestId is:43
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4005
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4005
+Send Create Context ACK, the contextId is: -1707481and the RequestId is:44
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4007
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4008
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4002
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4009
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4009
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4010
+Send Create Context ACK, the contextId is: -1707480and the RequestId is:45
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4011
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4012
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4013
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4006
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4001
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4008
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4010
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4012
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4002
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4006
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4003
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4007
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4006
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4004
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4009
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4011
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4012
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4005
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4015
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4011
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4013
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4007
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4008
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4010
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4014
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4014
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4015
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4017
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4016
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4017
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4016
+The request Id in the Orchestrator is : 46
+The ueAppID in the Orchestrator- StartMecApp- is : 1767
+Send Create Context ACK, the contextId is: -1707479and the RequestId is:46
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4018
+The request Id in the Orchestrator is : 47
+The ueAppID in the Orchestrator- StartMecApp- is : 779
+The request Id in the Orchestrator is : 48
+The ueAppID in the Orchestrator- StartMecApp- is : 1507
+Send Create Context ACK, the contextId is: -1707478and the RequestId is:47
+Send Create Context ACK, the contextId is: -1707477and the RequestId is:48
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4018
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4019
+The request Id in the Orchestrator is : 49
+The ueAppID in the Orchestrator- StartMecApp- is : 2963
+Send Create Context ACK, the contextId is: -1707476and the RequestId is:49
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4019
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 1975
+The vehicle Id successfully received by the Orchestrator, it is : 1975
+The contextId before relocate : -1707519
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 1975
+ContextId after relocate: -1707475
+Relocation- best Host: (omnetpp::cModule)mecHost3 id=66
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 1975
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 1091
+The vehicle Id successfully received by the Orchestrator, it is : 1091
+The contextId before relocate : -1707503
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 1091
+ContextId after relocate: -1707474
+Relocation- best Host: (omnetpp::cModule)mecHost1 id=64
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 1091
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 3171
+The vehicle Id successfully received by the Orchestrator, it is : 3171
+The contextId before relocate : -1707480
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 3171
+The app is allocate ? 0
+The vehicle Id successfully received by the mecPlatformManager, it is : 3171
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 987
+The vehicle Id successfully received by the Orchestrator, it is : 987
+The contextId before relocate : -1707520
+The initial MEC Host : (omnetpp::cModule)mecHost3 id=66
+The ueAppID  -Relocation- : 987
+ContextId after relocate: -1707473
+Relocation- best Host: (omnetpp::cModule)mecHost2 id=65
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 987
+Send Create Context ACK, the contextId is: -1707475and the RequestId is:6
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4013
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 623
+The vehicle Id successfully received by the Orchestrator, it is : 623
+The contextId before relocate : -1707525
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 623
+ContextId after relocate: -1707472
+Relocation- best Host: (omnetpp::cModule)mecHost1 id=64
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 623
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 2703
+The vehicle Id successfully received by the Orchestrator, it is : 2703
+The contextId before relocate : -1707482
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 2703
+The app is allocate ? 0
+The vehicle Id successfully received by the mecPlatformManager, it is : 2703
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 2859
+The vehicle Id successfully received by the Orchestrator, it is : 2859
+The contextId before relocate : -1707500
+The initial MEC Host : (omnetpp::cModule)mecHost1 id=64
+The ueAppID  -Relocation- : 2859
+ContextId after relocate: -1707471
+Relocation- best Host: (omnetpp::cModule)mecHost2 id=65
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 2859
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 3119
+The vehicle Id successfully received by the Orchestrator, it is : 3119
+The contextId before relocate : -1707491
+The initial MEC Host : (omnetpp::cModule)mecHost1 id=64
+The ueAppID  -Relocation- : 3119
+ContextId after relocate: -1707470
+Relocation- best Host: (omnetpp::cModule)mecHost3 id=66
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 3119
+Send Create Context ACK, the contextId is: -1707474and the RequestId is:22
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4020
+Send Create Context ACK, the contextId is: -1707473and the RequestId is:5
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4020
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 2807
+The vehicle Id successfully received by the Orchestrator, it is : 2807
+The contextId before relocate : -1707493
+The initial MEC Host : (omnetpp::cModule)mecHost1 id=64
+The ueAppID  -Relocation- : 2807
+ContextId after relocate: -1707469
+Relocation- best Host: (omnetpp::cModule)mecHost3 id=66
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 2807
+Send Create Context ACK, the contextId is: -1707472and the RequestId is:0
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4021
+Send Create Context ACK, the contextId is: -1707471and the RequestId is:25
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4021
+Send Create Context ACK, the contextId is: -1707470and the RequestId is:34
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4014
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 2027
+The vehicle Id successfully received by the Orchestrator, it is : 2027
+The contextId before relocate : -1707494
+The initial MEC Host : (omnetpp::cModule)mecHost1 id=64
+The ueAppID  -Relocation- : 2027
+ContextId after relocate: -1707468
+Relocation- best Host: (omnetpp::cModule)mecHost3 id=66
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 2027
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 2443
+The vehicle Id successfully received by the Orchestrator, it is : 2443
+The contextId before relocate : -1707509
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 2443
+ContextId after relocate: -1707467
+Relocation- best Host: (omnetpp::cModule)mecHost3 id=66
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 2443
+The application deleted with context Id: 
+The application deleted with context Id: 
+The application deleted with context Id: 
+The application deleted with context Id: 
+The application deleted with context Id: 
+The application deleted with context Id: 
+Send Create Context ACK, the contextId is: -1707469and the RequestId is:32
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4015
+Send Create Context ACK, the contextId is: -1707468and the RequestId is:31
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4016
+Send Create Context ACK, the contextId is: -1707467and the RequestId is:16
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4017
+The application deleted with context Id: 
+The application deleted with context Id: 
+The application deleted with context Id: 
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 1871
+The vehicle Id successfully received by the Orchestrator, it is : 1871
+The contextId before relocate : -1707506
+The initial MEC Host : (omnetpp::cModule)mecHost3 id=66
+The ueAppID  -Relocation- : 1871
+ContextId after relocate: -1707466
+Relocation- best Host: (omnetpp::cModule)mecHost1 id=64
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 1871
+Send Create Context ACK, the contextId is: -1707466and the RequestId is:19
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4022
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 2911
+The vehicle Id successfully received by the Orchestrator, it is : 2911
+The contextId before relocate : -1707488
+The initial MEC Host : (omnetpp::cModule)mecHost1 id=64
+The ueAppID  -Relocation- : 2911
+ContextId after relocate: -1707465
+Relocation- best Host: (omnetpp::cModule)mecHost2 id=65
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 2911
+Send Create Context ACK, the contextId is: -1707465and the RequestId is:37
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4022
+The application deleted with context Id: 
+The application deleted with context Id: 
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 1923
+The vehicle Id successfully received by the Orchestrator, it is : 1923
+The contextId before relocate : -1707498
+The initial MEC Host : (omnetpp::cModule)mecHost1 id=64
+The ueAppID  -Relocation- : 1923
+ContextId after relocate: -1707464
+Relocation- best Host: (omnetpp::cModule)mecHost3 id=66
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 1923
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 1819
+The vehicle Id successfully received by the Orchestrator, it is : 1819
+The contextId before relocate : -1707507
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 1819
+ContextId after relocate: -1707463
+Relocation- best Host: (omnetpp::cModule)mecHost1 id=64
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 1819
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 3015
+The vehicle Id successfully received by the Orchestrator, it is : 3015
+The contextId before relocate : -1707505
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 3015
+ContextId after relocate: -1707462
+Relocation- best Host: (omnetpp::cModule)mecHost3 id=66
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 3015
+Send Create Context ACK, the contextId is: -1707464and the RequestId is:27
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4018
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 935
+The vehicle Id successfully received by the Orchestrator, it is : 935
+The contextId before relocate : -1707522
+The initial MEC Host : (omnetpp::cModule)mecHost3 id=66
+The ueAppID  -Relocation- : 935
+ContextId after relocate: -1707461
+Relocation- best Host: (omnetpp::cModule)mecHost1 id=64
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 935
+Send Create Context ACK, the contextId is: -1707463and the RequestId is:18
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4023
+Send Create Context ACK, the contextId is: -1707462and the RequestId is:20
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.20.1, Port: 4019
+The application deleted with context Id: 
+The application deleted with context Id: 
+The application deleted with context Id: 
+Send Create Context ACK, the contextId is: -1707461and the RequestId is:3
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.18.1, Port: 4024
+The application deleted with context Id: 
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 1455
+The vehicle Id successfully received by the Orchestrator, it is : 1455
+The contextId before relocate : -1707484
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 1455
+The app is allocate ? 0
+The vehicle Id successfully received by the mecPlatformManager, it is : 1455
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 1351
+The vehicle Id successfully received by the Orchestrator, it is : 1351
+The contextId before relocate : -1707486
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 1351
+The app is allocate ? 0
+The vehicle Id successfully received by the mecPlatformManager, it is : 1351
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 2651
+The vehicle Id successfully received by the Orchestrator, it is : 2651
+The contextId before relocate : -1707483
+The initial MEC Host : (omnetpp::cModule)mecHost1 id=64
+The ueAppID  -Relocation- : 2651
+ContextId after relocate: -1707460
+Relocation- best Host: (omnetpp::cModule)mecHost2 id=65
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 2651
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 2755
+The vehicle Id successfully received by the Orchestrator, it is : 2755
+The contextId before relocate : -1707517
+The initial MEC Host : (omnetpp::cModule)mecHost2 id=65
+The ueAppID  -Relocation- : 2755
+The app is allocate ? 0
+The vehicle Id successfully received by the mecPlatformManager, it is : 2755
+Send Create Context ACK, the contextId is: -1707460and the RequestId is:42
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4023
+LocationService::handlePUTRequest - Migration
+LocationService::handlePUTRequest - Vehicle app ID is : 831
+The vehicle Id successfully received by the Orchestrator, it is : 831
+The contextId before relocate : -1707524
+The initial MEC Host : (omnetpp::cModule)mecHost3 id=66
+The ueAppID  -Relocation- : 831
+ContextId after relocate: -1707459
+Relocation- best Host: (omnetpp::cModule)mecHost2 id=65
+The app is allocate ? 1
+The vehicle Id successfully received by the mecPlatformManager, it is : 831
+The application deleted with context Id: 
+Send Create Context ACK, the contextId is: -1707459and the RequestId is:1
+UESafetyApp::sendCircleNotificationSubscription() - Subscription Message sent to the MEC app. Address: 192.168.19.1, Port: 4024
+The application deleted with context Id: 

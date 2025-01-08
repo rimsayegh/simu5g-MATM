@@ -1,0 +1,337 @@
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 35ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 21ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 15ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 12ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 14ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 16ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 13ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 1000.0000000000
+The minimum distance between vehicle and MEC host is : 1000.0000000000 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 4123.1056256177
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2236.0679774998
+The minimum distance between vehicle and MEC host is : 2236.0679774998 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 20ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 15ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 8ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 12ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 8ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 7ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 8ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2258.8713996153
+The minimum distance between vehicle and MEC host is : 2258.8713996153 units
+The relocation duration is : 8ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 8ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2258.8713996153
+The minimum distance between vehicle and MEC host is : 2258.8713996153 units
+The relocation duration is : 8ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2258.8713996153
+The minimum distance between vehicle and MEC host is : 2258.8713996153 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2258.8713996153
+The minimum distance between vehicle and MEC host is : 2258.8713996153 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 13ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2258.8713996153
+The minimum distance between vehicle and MEC host is : 2258.8713996153 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 1050.0000000000
+The minimum distance between vehicle and MEC host is : 1050.0000000000 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 4135.5168963504
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 2258.8713996153
+The minimum distance between vehicle and MEC host is : 2258.8713996153 units
+The relocation duration is : 30ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2221.6470870955
+The minimum distance between vehicle and MEC host is : 2221.6470870955 units
+The relocation duration is : 16ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2366.0415891949
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 2110.2399867788
+The minimum distance between vehicle and MEC host is : 2110.2399867788 units
+The relocation duration is : 15ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2221.3034013615
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 1050.8609807677
+The minimum distance between vehicle and MEC host is : 1050.8609807677 units
+The relocation duration is : 13ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2363.6698335004
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 1012.3315078570
+The minimum distance between vehicle and MEC host is : 1012.3315078570 units
+The relocation duration is : 18ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2364.5151461769
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 2109.4197961762
+The minimum distance between vehicle and MEC host is : 2109.4197961762 units
+The relocation duration is : 12ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2222.0628142337
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 1053.3580352378
+The minimum distance between vehicle and MEC host is : 1053.3580352378 units
+The relocation duration is : 15ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2222.9514694658
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 1050.7869601399
+The minimum distance between vehicle and MEC host is : 1050.7869601399 units
+The relocation duration is : 15ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2222.2111173334
+The minimum distance between vehicle and MEC host is : 2222.2111173334 units
+The relocation duration is : 10ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2222.1758642376
+The minimum distance between vehicle and MEC host is : 2222.1758642376 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2223.2839410656
+The minimum distance between vehicle and MEC host is : 2223.2839410656 units
+The relocation duration is : 19ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2223.1511486626
+The minimum distance between vehicle and MEC host is : 2223.1511486626 units
+The relocation duration is : 13ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2363.5165437331
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 2108.6039107666
+The minimum distance between vehicle and MEC host is : 2108.6039107666 units
+The relocation duration is : 15ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2222.4755206751
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 1050.8079938790
+The minimum distance between vehicle and MEC host is : 1050.8079938790 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2223.8533769338
+The minimum distance between vehicle and MEC host is : 2223.8533769338 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2363.0104062826
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 2110.8998508219
+The minimum distance between vehicle and MEC host is : 2110.8998508219 units
+The relocation duration is : 19ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2222.8280725238
+The minimum distance between vehicle and MEC host is : 2222.8280725238 units
+The relocation duration is : 9ms
+The closest MEC Host is : (omnetpp::cModule)mecHost3 id=66
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2362.2267882868
+The mecHost : (omnetpp::cModule)mecHost1 id=64 with distance: 2110.3258988365
+The minimum distance between vehicle and MEC host is : 2110.3258988365 units
+The relocation duration is : 15ms
+The closest MEC Host is : (omnetpp::cModule)mecHost1 id=64
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 1009.9656232269
+The minimum distance between vehicle and MEC host is : 1009.9656232269 units
+The relocation duration is : 30ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 1009.9782454093
+The minimum distance between vehicle and MEC host is : 1009.9782454093 units
+The relocation duration is : 11ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 1050.7727081058
+The minimum distance between vehicle and MEC host is : 1050.7727081058 units
+The relocation duration is : 16ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2222.7850444431
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 1052.0899932040
+The minimum distance between vehicle and MEC host is : 1052.0899932040 units
+The relocation duration is : 13ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65
+The mecHost : (omnetpp::cModule)mecHost3 id=66 with distance: 2362.2988887946
+The mecHost : (omnetpp::cModule)mecHost2 id=65 with distance: 1009.7801939036
+The minimum distance between vehicle and MEC host is : 1009.7801939036 units
+The relocation duration is : 17ms
+The closest MEC Host is : (omnetpp::cModule)mecHost2 id=65

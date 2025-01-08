@@ -1,0 +1,23 @@
+{
+"appDid" : "SAMECAPP",
+"appName" : "MECSafetyApp",
+"appProvider" : "simu5g.apps.mec.Safety.MECSafetyApp",
+"appInfoName" : "appInfoName_",
+"appDescription" : "appDescription_",
+"virtualComputeDescriptor" :{
+    "virtualDisk": 600,
+    "virtualCpu" : 165130,
+    "virtualMemory":200
+    },
+"appServiceRequired": [
+    {
+        "ServiceDependency" :{
+            "serName" : "LocationService",
+            "version" : "v2",
+            "serCategory": "Location"
+        }
+    }
+],
+
+"omnetppServiceRequired": "MESafetyService"
+}

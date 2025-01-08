@@ -1,0 +1,154 @@
+The vehicle is entering :Yes
+Coordinates: [2542.14;1450]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2356.87;1402.57]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2542.53;1450]
+The vehicle is entering :1970
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2359.47;1402.53]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2357.34;1399.97]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2543;1452.48]
+The vehicle is entering :1776
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2540.66;1450]
+The vehicle is entering :1076315648
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2541.5;1450]
+The vehicle is entering :1730
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2541.54;1450]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2541.49;1452.25]
+The vehicle is entering :1078583425
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2541.63;1452.23]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2357.5;1397.95]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2541.2;1450]
+The vehicle is entering :1079052513
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2540.5;1451.61]
+The vehicle is entering :1076265473
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2359.01;1399.99]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2540.8;1450]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2359.17;1398.48]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2358.4;1399.99]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2358.31;1399.99]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2540.29;1450]
+The vehicle is entering :1702
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2541.53;1451.27]
+The vehicle is entering :1075997697
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2359.8;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
