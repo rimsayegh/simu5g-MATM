@@ -1,8 +1,7 @@
 video**.zip
 simu5g/simulations/NR/mec/multiMecHost/dataset/videostreaming_dataset.zip
-simu5g/src/apps/mec/Safety/CommonFunctions.cc
-simu5g/src/apps/mec/Safety/CommonFunctions.h
-simu5g/src/apps/mec/Safety/packets/Serializers
+
+
 # ignore generated files
 src/**/*_m.h
 src/**/*_m.cc
@@ -83,3 +82,5 @@ vim files
 
 # files for performance evaluation
 *.ipynb
+
+/src/apps/mec/Safety/CommonFunctions.cc
