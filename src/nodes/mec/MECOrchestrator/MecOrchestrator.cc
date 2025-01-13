@@ -139,34 +139,7 @@ void MecOrchestrator::preCopyMECApp(int contextId, cModule* targetMecHost) {
         return;
     }
     mecAppMapEntry& appEntry = meAppMap[contextId];
-
-    // Copy application state (e.g., memory, CPU states)
-    EV << "MecOrchestrator::preCopyMECApp - Copying application state for app: " << appEntry.mecAppName << endl;
-    // Placeholder for copying memory/CPU state
-
-    // Copy network configuration
-    EV << "MecOrchestrator::preCopyMECApp - Copying network configuration for app: " << appEntry.mecAppName << endl;
-    // Placeholder for copying network configuration (IP addresses, ongoing connections, etc.)
-
-    // Copy storage/data state
-    EV << "MecOrchestrator::preCopyMECApp - Copying storage/data state for app: " << appEntry.mecAppName << endl;
-    // Placeholder for copying data files or storage state
-
-    // Copy service information
-    EV << "MecOrchestrator::preCopyMECApp - Copying service information for app: " << appEntry.mecAppName << endl;
-    // Placeholder for copying metadata related to services
-
-    // Copy resources allocation information
-    EV << "MecOrchestrator::preCopyMECApp - Copying resource allocation information for app: " << appEntry.mecAppName << endl;
-    // Placeholder for copying CPU, RAM, disk requirements, etc.
-
-    // Copy session information
-    EV << "MecOrchestrator::preCopyMECApp - Copying session information for app: " << appEntry.mecAppName << endl;
-    // Placeholder for copying active user sessions or connections
-
-    // Copy UE-specific data
-    EV << "MecOrchestrator::preCopyMECApp - Copying UE-specific data for UE ID: " << appEntry.mecUeAppID << endl;
-    // Placeholder for copying UE-specific data like user contexts or location data
+    /////////////Soon
 
     OFile.open("output.txt", std::ios::app);
     if (OFile.is_open()) {
