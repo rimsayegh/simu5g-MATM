@@ -96,24 +96,24 @@ void CircleNotificationSubscription::sendNotification(EventNotification *event)
     //Try this if :
     if (socket_->getState() == inet::TcpSocket::CONNECTED) {
         Http::sendPostRequest(socket_, notification.dump(2).c_str(), clientHost_.c_str(), clientUri_.c_str());
-        VeFile.open("loc.txt", std::ios::app);  // Open file for appending
+        /*VeFile.open("loc.txt", std::ios::app);  // Open file for appending
 
         if (VeFile.is_open()) {
               VeFile << " The socket connected" << std::endl;
 
               VeFile.close();
-         }
+         }*/
     }
     else {
        EV << "Socket not connected. Unable to send packet.\n";
 
-       VeFile.open("loc.txt", std::ios::app);  // Open file for appending
+       /*VeFile.open("loc.txt", std::ios::app);  // Open file for appending
 
        if (VeFile.is_open()) {
              VeFile << " The socket disconnected: can't send message to MEC" << std::endl;
 
              VeFile.close();
-        }
+        }*/
    }
     //Http::sendPostRequest(socket_, notification.dump(2).c_str(), clientHost_.c_str(), clientUri_.c_str());
 

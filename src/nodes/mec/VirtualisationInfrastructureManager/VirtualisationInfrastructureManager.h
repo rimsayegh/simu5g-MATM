@@ -136,7 +136,7 @@ class VirtualisationInfrastructureManager : public cSimpleModule
         //L2S-ESME
         bool terminateR(DeleteAppMessage*,cModule*);
         void PrintResources();
-
+        double CalculateLoad();
         //L2S-ESME
 
         /*

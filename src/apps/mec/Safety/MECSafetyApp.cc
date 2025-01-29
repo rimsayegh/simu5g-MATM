@@ -394,13 +394,13 @@ void MECSafetyApp::handleUeMessage(omnetpp::cMessage *msg)
         scheduleAt(simTime()+0.005, m);
 
 
-        /*SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
+        SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
 
         if (SAMFile.is_open()) {
            SAMFile << "MECSafetyApp - Received message from UEs: "<< mecAppId << " and the mecHost is: " << mec << std::endl;
            SAMFile << "The centerX: "<< centerPositionX << std::endl;
            SAMFile.close();
-        }*/
+        }
     }
     else if (strcmp(mecPk->getType(), STOP_WARNING) == 0)
     {
@@ -432,12 +432,12 @@ void MECSafetyApp::handleUeMessage(omnetpp::cMessage *msg)
 
                      cModule* Mec = this->getParentModule();
 
-                     SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
+                     /*SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
 
                      if (SAMFile.is_open()) {
                          SAMFile << "MECSafetyApp - Send Data Packet to the vehicle from: "<< Mec<< std::endl;
                          SAMFile.close();
-                     }
+                     }*/
 
 
 
@@ -625,12 +625,12 @@ void MECSafetyApp::established(int connId)
 
 void MECSafetyApp::handleHttpMessage(int connId)
 {
-    SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
+    /*SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
 
     if (SAMFile.is_open()) {
             SAMFile << " In handleHttpMessage "<< std::endl;
             SAMFile.close();
-    }
+    }*/
 
     //
     if (mp1Socket_ != nullptr && connId == mp1Socket_->getSocketId()) {
@@ -663,12 +663,12 @@ void MECSafetyApp::handleMp1Message(int connId)
     mp1HttpMessage = (HttpBaseMessage*) msgStatus->httpMessageQueue.front();
     EV << "MECSafetyApp::handleMp1Message - payload: " << mp1HttpMessage->getBody() << endl;
 
-    SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
+    /*SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
 
     if (SAMFile.is_open()) {
         SAMFile << "The getUserData: "<<  mp1Socket_->getUserData() << std::endl;
         SAMFile.close();
-    }
+    }*/
 
     try
     {
@@ -797,12 +797,12 @@ void MECSafetyApp::handleServiceMessage(int connId)
                     // send subscription for leaving..
                     modifySubscription();
 
-                    SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
+                    /*SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
 
                     if (SAMFile.is_open()) {
                         SAMFile << " modify subscription because it is entering the area "<< std::endl;
                         SAMFile.close();
-                    }
+                    }*/
 
 
                 }
@@ -822,12 +822,12 @@ void MECSafetyApp::handleServiceMessage(int connId)
                     }
                     sendDeleteSubscription();
 
-                    SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
+                    /*SAMFile.open("mecapp.txt", std::ios::app);  // Open file for appending
 
                     if (SAMFile.is_open()) {
                         SAMFile << " SendDeleteSubscription because it is leaving the area"<< std::endl;
                         SAMFile.close();
-                    }
+                    }*/
                 }
 
                 alert->setPositionX(jsonBody["subscriptionNotification"]["terminalLocationList"]["currentLocation"]["x"]);

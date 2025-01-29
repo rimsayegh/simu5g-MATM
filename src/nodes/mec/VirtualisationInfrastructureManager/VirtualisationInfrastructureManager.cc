@@ -697,6 +697,17 @@ void VirtualisationInfrastructureManager::PrintResources(){
                     VIRFile.close();
                 }
 }
+
+double VirtualisationInfrastructureManager::CalculateLoad(){
+
+    double U_CPU = allocatedCPU / maxCPU;
+    double U_RAM = allocatedRam / maxRam;
+    double U_Disk = allocatedDisk / maxDisk;
+
+    double load = (0.5 * U_CPU) + (0.3 * U_RAM) + (0.2 * U_Disk);
+
+    return load;
+}
 //ESME-L2S
 
 bool VirtualisationInfrastructureManager::deRegisterMecApp(int ueAppID)

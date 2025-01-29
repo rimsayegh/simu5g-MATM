@@ -3,6 +3,7 @@ simu5g/simulations/NR/mec/multiMecHost/dataset/videostreaming_dataset.zip
 
 
 # ignore generated files
+simulations/**/*.txt
 src/**/*_m.h
 src/**/*_m.cc
 src/Makefile
@@ -79,7 +80,8 @@ vim files
 *.swp
 *.swo
 .qtenvrc.*
-
+*.txt
+**.txt
 # files for performance evaluation
 *.ipynb
 

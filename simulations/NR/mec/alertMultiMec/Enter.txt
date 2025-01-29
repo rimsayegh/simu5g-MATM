@@ -1,55 +1,47 @@
 The vehicle is entering :Yes
-Coordinates: [2542.14;1450]
+Coordinates: [2358.28;1400]
+The vehicle is entering :1075414017
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2357.36;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2357.78;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2359.32;1400]
 The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2356.87;1402.57]
+Coordinates: [2359.42;1400]
 The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2542.53;1450]
-The vehicle is entering :1970
-status: Retrieved 
-return Notification Event 
-The vehicle is entering :Yes
-Coordinates: [2359.47;1402.53]
+Coordinates: [2359.61;1400]
 The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2357.34;1399.97]
+Coordinates: [2358.83;1400]
 The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2543;1452.48]
-The vehicle is entering :1776
+Coordinates: [2357.75;1400]
+The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2540.66;1450]
-The vehicle is entering :1076315648
-status: Retrieved 
-return Notification Event 
-status: Retrieved 
-return Notification Event 
-The vehicle is entering :Yes
-Coordinates: [2541.5;1450]
-The vehicle is entering :1730
-status: Retrieved 
-return Notification Event 
-status: Retrieved 
-return Notification Event 
-status: Retrieved 
-return Notification Event 
-status: Retrieved 
-return Notification Event 
-The vehicle is entering :Yes
-Coordinates: [2541.54;1450]
+Coordinates: [2359.03;1400]
 The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
@@ -60,12 +52,16 @@ return Notification Event
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2541.49;1452.25]
-The vehicle is entering :1078583425
+Coordinates: [2358.05;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2541.63;1452.23]
+Coordinates: [2358.72;1400]
 The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
@@ -76,73 +72,54 @@ return Notification Event
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2357.5;1397.95]
+Coordinates: [2357.1;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2358.51;1400]
+The vehicle is entering :1075874226
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2357.67;1400]
 The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2541.2;1450]
-The vehicle is entering :1079052513
-status: Retrieved 
-return Notification Event 
-status: Retrieved 
-return Notification Event 
-The vehicle is entering :Yes
-Coordinates: [2540.5;1451.61]
-The vehicle is entering :1076265473
-status: Retrieved 
-return Notification Event 
-The vehicle is entering :Yes
-Coordinates: [2359.01;1399.99]
+Coordinates: [2358.54;1400]
 The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2540.8;1450]
+Coordinates: [2359.2;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2359.1;1400]
 The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2359.17;1398.48]
-The vehicle is entering :1
+Coordinates: [2357.38;1400]
+The vehicle is entering :1075943425
 status: Retrieved 
 return Notification Event 
 status: Retrieved 
 return Notification Event 
 status: Retrieved 
 return Notification Event 
-status: Retrieved 
-return Notification Event 
-The vehicle is entering :Yes
-Coordinates: [2358.4;1399.99]
-The vehicle is entering :1
-status: Retrieved 
-return Notification Event 
-The vehicle is entering :Yes
-Coordinates: [2358.31;1399.99]
-The vehicle is entering :1
-status: Retrieved 
-return Notification Event 
-The vehicle is entering :Yes
-Coordinates: [2540.29;1450]
-The vehicle is entering :1702
 status: Retrieved 
 return Notification Event 
 status: Retrieved 
 return Notification Event 
 The vehicle is entering :Yes
-Coordinates: [2541.53;1451.27]
-The vehicle is entering :1075997697
-status: Retrieved 
-return Notification Event 
-status: Retrieved 
-return Notification Event 
-The vehicle is entering :Yes
-Coordinates: [2359.8;1400]
+Coordinates: [2357.71;1400]
 The vehicle is entering :1
 status: Retrieved 
 return Notification Event 
@@ -150,5 +127,84 @@ status: Retrieved
 return Notification Event 
 status: Retrieved 
 return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2359.55;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2358.54;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2358.77;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2359.68;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2357.73;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2357.25;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2357.47;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2358.34;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2357.45;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2359.58;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2359.68;1400]
+The vehicle is entering :1
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2357.39;1400]
+The vehicle is entering :1076361729
+status: Retrieved 
+return Notification Event 
+The vehicle is entering :Yes
+Coordinates: [2358.43;1400]
+The vehicle is entering :1075403948
 status: Retrieved 
 return Notification Event 

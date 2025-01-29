@@ -1,257 +1,57 @@
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 4
- handlePUTRequest
- The socket connected
-The subscription Id: 4
- The socket connected
-The subscription Id: 15
- handlePUTRequest
- The socket connected
-The subscription Id: 28
- handlePUTRequest
- The socket connected
-The subscription Id: 3
- handlePUTRequest
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 9
- handlePUTRequest
- The socket connected
-The subscription Id: 27
- handlePUTRequest
- The socket connected
-The subscription Id: 14
- handlePUTRequest
- The socket connected
-The subscription Id: 15
- The socket connected
-The subscription Id: 26
- handlePUTRequest
- The socket connected
-The subscription Id: 3
- The socket connected
-The subscription Id: 28
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 9
- The socket connected
-The subscription Id: 25
- The socket connected
-The subscription Id: 27
- handlePUTRequest
- The socket connected
-The subscription Id: 14
- The socket connected
-The subscription Id: 26
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
+The subscription Id: 37
+The subscription Id: 40
 The subscription Id: 17
- handlePUTRequest
- The socket connected
-The subscription Id: 8
- handlePUTRequest
- The socket connected
+The subscription Id: 11
+The subscription Id: 37
+The subscription Id: 16
+The subscription Id: 38
+The subscription Id: 31
+The subscription Id: 14
 The subscription Id: 25
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
+The subscription Id: 40
 The subscription Id: 17
- The socket connected
+The subscription Id: 11
+The subscription Id: 13
+The subscription Id: 16
+The subscription Id: 38
+The subscription Id: 23
+The subscription Id: 31
+The subscription Id: 14
+The subscription Id: 25
+The subscription Id: 1
+The subscription Id: 27
+The subscription Id: 7
+The subscription Id: 13
+The subscription Id: 26
+The subscription Id: 39
+The subscription Id: 6
+The subscription Id: 23
+The subscription Id: 29
+The subscription Id: 1
+The subscription Id: 27
+The subscription Id: 7
+The subscription Id: 26
+The subscription Id: 4
+The subscription Id: 39
+The subscription Id: 6
+The subscription Id: 10
+The subscription Id: 34
+The subscription Id: 29
+The subscription Id: 2
+The subscription Id: 3
+The subscription Id: 4
+The subscription Id: 21
+The subscription Id: 10
+The subscription Id: 34
+The subscription Id: 20
+The subscription Id: 5
+The subscription Id: 15
+The subscription Id: 2
+The subscription Id: 24
+The subscription Id: 18
+The subscription Id: 3
 The subscription Id: 8
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 19
- handlePUTRequest
- The socket connected
-The subscription Id: 19
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 22
- handlePUTRequest
- The socket connected
-The subscription Id: 22
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 16
- handlePUTRequest
- The socket connected
+The subscription Id: 21
 The subscription Id: 20
- handlePUTRequest
- The socket connected
-The subscription Id: 10
- handlePUTRequest
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 16
- The socket connected
-The subscription Id: 2
- handlePUTRequest
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 20
- The socket connected
-The subscription Id: 10
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 2
- The socket connected
-The subscription Id: 24
- handlePUTRequest
- The socket connected
-The subscription Id: 23
- handlePUTRequest
- The socket connected
-The subscription Id: 29
- handlePUTRequest
- The socket connected
-The subscription Id: 24
- The socket connected
-The subscription Id: 5
- handlePUTRequest
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 23
- The socket connected
-The subscription Id: 0
- handlePUTRequest
- The socket connected
-The subscription Id: 29
-Location Service: handlePostRequest
-Get the JSON structure????? Yes 
-Correct subscription created!!!
- The socket connected
-The subscription Id: 5
- The socket connected
-The subscription Id: 0
+The subscription Id: 28
+The subscription Id: 36

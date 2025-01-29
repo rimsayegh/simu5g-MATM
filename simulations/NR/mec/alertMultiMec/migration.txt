@@ -1,187 +1,224 @@
+UESafetyApp::Received ACK and send to MEC at: 2.02275
 UESafetyApp::Received ACK and send to MEC at: 2.023
 UESafetyApp::Received ACK and send to MEC at: 2.023
-UESafetyApp::Received ACK and send to MEC at: 2.023
-UESafetyApp::Received ACK and send to MEC at: 2.023
-UESafetyApp::Received ACK and send to MEC at: 2.02325
-UESafetyApp::Received ACK and send to MEC at: 2.02325
-UESafetyApp::Received ACK and send to MEC at: 2.024
 UESafetyApp::Received ACK and send to MEC at: 2.02425
 UESafetyApp::Received ACK and send to MEC at: 2.02425
-UESafetyApp::Received ACK and send to MEC at: 2.0245
-UESafetyApp::Received ACK and send to MEC at: 2.0245
-UESafetyApp::Received ACK and send to MEC at: 2.0245
-UESafetyApp::Received ACK and send to MEC at: 2.0245
-UESafetyApp::Received ACK and send to MEC at: 2.0245
-MECSafetyApp - Received message from UEs:831and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 2.025000303651
-MECSafetyApp - Received message from UEs:935and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 2.025000364451
-MECSafetyApp - Received message from UEs:2391and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.025000414472
-MECSafetyApp - Received message from UEs:987and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 2.025000425251
-UESafetyApp::Received ACK and send to MEC at: 2.02525
-MECSafetyApp - Received message from UEs:1975and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.025250414472
-UESafetyApp::Received ACK and send to MEC at: 2.0255
+MECSafetyApp - Received message from UEs:1143and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.024750414481
+MECSafetyApp - Received message from UEs:675and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.025000303676
+MECSafetyApp - Received message from UEs:883and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.025000414481
 UESafetyApp::Received ACK and send to MEC at: 2.02575
-UESafetyApp::Received ACK and send to MEC at: 2.02575
-UESafetyApp::Received ACK and send to MEC at: 2.02575
-UESafetyApp::Received ACK and send to MEC at: 2.02575
-UESafetyApp::Received ACK and send to MEC at: 2.026
-MECSafetyApp - Received message from UEs:2755and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.026250414472
-MECSafetyApp - Received message from UEs:1195and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 2.026250436451
-MECSafetyApp - Received message from UEs:2339and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.026500414472
-MECSafetyApp - Received message from UEs:2443and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.026500475272
+MECSafetyApp - Received message from UEs:1299and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.026250414481
+MECSafetyApp - Received message from UEs:1091and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.026250502881
 UESafetyApp::Received ACK and send to MEC at: 2.02675
-MECSafetyApp - Received message from UEs:623and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.026750414472
+UESafetyApp::Received ACK and send to MEC at: 2.02675
+UESafetyApp::Received ACK and send to MEC at: 2.02675
+UESafetyApp::Received ACK and send to MEC at: 2.02675
+UESafetyApp::Received ACK and send to MEC at: 2.027
+UESafetyApp::Received ACK and send to MEC at: 2.027
+UESafetyApp::Received ACK and send to MEC at: 2.027
+UESafetyApp::Received ACK and send to MEC at: 2.02725
+UESafetyApp::Received ACK and send to MEC at: 2.02725
 UESafetyApp::Received ACK and send to MEC at: 2.02725
 UESafetyApp::Received ACK and send to MEC at: 2.0275
 UESafetyApp::Received ACK and send to MEC at: 2.0275
-UESafetyApp::Received ACK and send to MEC at: 2.0275
-UESafetyApp::Received ACK and send to MEC at: 2.0275
-UESafetyApp::Received ACK and send to MEC at: 2.0275
-UESafetyApp::Received ACK and send to MEC at: 2.0275
-MECSafetyApp - Received message from UEs:3015and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.027500414472
 UESafetyApp::Received ACK and send to MEC at: 2.02775
-MECSafetyApp - Received message from UEs:1143and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.027750414472
-MECSafetyApp - Received message from UEs:1247and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.027750475272
-MECSafetyApp - Received message from UEs:2183and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.028000414472
-UESafetyApp::Received ACK and send to MEC at: 2.0285
-UESafetyApp::Received ACK and send to MEC at: 2.0285
-UESafetyApp::Received ACK and send to MEC at: 2.0285
-UESafetyApp::Received ACK and send to MEC at: 2.02875
-UESafetyApp::Received ACK and send to MEC at: 2.02875
-UESafetyApp::Received ACK and send to MEC at: 2.02875
-UESafetyApp::Received ACK and send to MEC at: 2.029
-UESafetyApp::Received ACK and send to MEC at: 2.029
-MECSafetyApp - Received message from UEs:2859and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 2.029250303672
-MECSafetyApp - Received message from UEs:1091and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.029250414472
-MECSafetyApp - Received message from UEs:1923and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 2.029500303672
-MECSafetyApp - Received message from UEs:2027and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 2.029500364472
-MECSafetyApp - Received message from UEs:2235and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 2.029500425272
-UESafetyApp::Received ACK and send to MEC at: 2.03
-UESafetyApp::Received ACK and send to MEC at: 2.03025
-UESafetyApp::Received ACK and send to MEC at: 2.03025
-UESafetyApp::Received ACK and send to MEC at: 2.03025
-MECSafetyApp - Received message from UEs:1871and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 2.030250303651
-MECSafetyApp - Received message from UEs:1819and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.030250414472
-UESafetyApp::Received ACK and send to MEC at: 2.0305
-MECSafetyApp - Received message from UEs:1039and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.031000414472
-UESafetyApp::Received ACK and send to MEC at: 2.03175
-MECSafetyApp - Received message from UEs:2911and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 2.032250303672
+UESafetyApp::Received ACK and send to MEC at: 2.02775
 MECSafetyApp - Received message from UEs:1351and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.032250414472
-MECSafetyApp - Received message from UEs:1455and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.032250475272
-MECSafetyApp - Received message from UEs:2807and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 2.032500303672
-UESafetyApp::Received ACK and send to MEC at: 2.033
-UESafetyApp::Received ACK and send to MEC at: 2.03325
-MECSafetyApp - Received message from UEs:3119and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 2.033500303672
-MECSafetyApp - Received message from UEs:2703and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.033750414472
-MECSafetyApp - Received message from UEs:3171and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 2.036500414472
-MECSafetyApp - Received message from UEs:2651and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 2.038250303672
-UESafetyApp::Received ACK and send to MEC at: 3.0285
-UESafetyApp::Received ACK and send to MEC at: 6.02
-UESafetyApp::Received ACK and send to MEC at: 6.0215
-MECSafetyApp - Received message from UEs:779and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 6.023500414476
-UESafetyApp::Received ACK and send to MEC at: 12.0215
-MECSafetyApp - Received message from UEs:2963and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 12.029500414481
-The migration of vehicle: 1975 started at: 57.330034011079
-The migration of vehicle: 1091 started at: 60.730131845572
-The migration of vehicle: 3171 started at: 61.530056486952
-The migration of vehicle: 987 started at: 61.630050617974
-UESafetyApp::Received ACK and send to MEC at: 62.33625
+MECSafetyApp - Received message from UEs at: 2.027750414481
+UESafetyApp::Received ACK and send to MEC at: 2.028
+UESafetyApp::Received ACK and send to MEC at: 2.02825
+UESafetyApp::Received ACK and send to MEC at: 2.0285
+UESafetyApp::Received ACK and send to MEC at: 2.0285
+UESafetyApp::Received ACK and send to MEC at: 2.02875
+MECSafetyApp - Received message from UEs:2131and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.028750303681
+UESafetyApp::Received ACK and send to MEC at: 2.029
+MECSafetyApp - Received message from UEs:1663and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.029000303681
+MECSafetyApp - Received message from UEs:1403and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.029000414481
+UESafetyApp::Received ACK and send to MEC at: 2.02925
+UESafetyApp::Received ACK and send to MEC at: 2.02925
+MECSafetyApp - Received message from UEs:987and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.029250303681
+UESafetyApp::Received ACK and send to MEC at: 2.0295
+MECSafetyApp - Received message from UEs:2547and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.029750370081
+MECSafetyApp - Received message from UEs:2391and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.030000414481
+MECSafetyApp - Received message from UEs:1871and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.030250370081
+MECSafetyApp - Received message from UEs:2027and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.030250414481
 MECSafetyApp - Received message from UEs:1975and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 62.338250414455
-The migration of vehicle: 623 started at: 63.230044984943
-The migration of vehicle: 2703 started at: 63.730037874855
-The migration of vehicle: 2859 started at: 63.830105923802
-The migration of vehicle: 3119 started at: 64.430030233545
-UESafetyApp::Received ACK and send to MEC at: 65.73625
-MECSafetyApp - Received message from UEs:1091and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 65.746250414489
-UESafetyApp::Received ACK and send to MEC at: 66.63625
-MECSafetyApp - Received message from UEs:987and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 66.638250303689
-The migration of vehicle: 2807 started at: 67.430036086989
-UESafetyApp::Received ACK and send to MEC at: 68.23625
-MECSafetyApp - Received message from UEs:623and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 68.239750414489
-UESafetyApp::Received ACK and send to MEC at: 68.83775
-MECSafetyApp - Received message from UEs:2859and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 68.839750303689
-UESafetyApp::Received ACK and send to MEC at: 69.43775
-MECSafetyApp - Received message from UEs:3119and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 69.439750414464
-The migration of vehicle: 2027 started at: 70.130083432331
-The migration of vehicle: 2443 started at: 70.730047758713
-UESafetyApp::Received ACK and send to MEC at: 72.43625
-MECSafetyApp - Received message from UEs:2807and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 72.439750414468
-UESafetyApp::Received ACK and send to MEC at: 75.13775
-MECSafetyApp - Received message from UEs:2027and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 75.142000414468
-UESafetyApp::Received ACK and send to MEC at: 75.73625
-MECSafetyApp - Received message from UEs:2443and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 75.738250414468
-The migration of vehicle: 1871 started at: 77.730077671672
-UESafetyApp::Received ACK and send to MEC at: 82.73625
-MECSafetyApp - Received message from UEs:1871and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 82.740000414476
-The migration of vehicle: 2911 started at: 83.430052374813
-UESafetyApp::Received ACK and send to MEC at: 88.43775
-MECSafetyApp - Received message from UEs:2911and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 88.439750303676
-The migration of vehicle: 1923 started at: 97.63010228421
-The migration of vehicle: 1819 started at: 99.930039984401
-The migration of vehicle: 3015 started at: 100.430033966323
-UESafetyApp::Received ACK and send to MEC at: 102.63775
-MECSafetyApp - Received message from UEs:1923and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 102.669250414472
-The migration of vehicle: 935 started at: 104.130039224908
-UESafetyApp::Received ACK and send to MEC at: 104.93625
-MECSafetyApp - Received message from UEs:1819and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 104.963750414481
-UESafetyApp::Received ACK and send to MEC at: 105.43925
-MECSafetyApp - Received message from UEs:3015and the mecHost is: (omnetpp::cModule)mecHost3 id=66
-MECSafetyApp - Received message from UEs at: 105.443000414472
-UESafetyApp::Received ACK and send to MEC at: 109.13775
-MECSafetyApp - Received message from UEs:935and the mecHost is: (omnetpp::cModule)mecHost1 id=64
-MECSafetyApp - Received message from UEs at: 109.139750414476
-The migration of vehicle: 1455 started at: 115.030041088247
-The migration of vehicle: 1351 started at: 118.230036806731
-The migration of vehicle: 2651 started at: 119.530020067696
-The migration of vehicle: 2755 started at: 124.030044639916
-UESafetyApp::Received ACK and send to MEC at: 124.53775
+MECSafetyApp - Received message from UEs at: 2.030250430881
+UESafetyApp::Received ACK and send to MEC at: 2.0305
+UESafetyApp::Received ACK and send to MEC at: 2.0305
+UESafetyApp::Received ACK and send to MEC at: 2.0305
+MECSafetyApp - Received message from UEs:1559and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.030500414481
+MECSafetyApp - Received message from UEs:1715and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.030500475281
+UESafetyApp::Received ACK and send to MEC at: 2.03075
+UESafetyApp::Received ACK and send to MEC at: 2.03075
+UESafetyApp::Received ACK and send to MEC at: 2.03075
+UESafetyApp::Received ACK and send to MEC at: 2.03075
+MECSafetyApp - Received message from UEs:1195and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.030750303681
+UESafetyApp::Received ACK and send to MEC at: 2.031
+MECSafetyApp - Received message from UEs:623and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.031000303681
+MECSafetyApp - Received message from UEs:779and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.031000364481
+MECSafetyApp - Received message from UEs:935and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.031000414481
+UESafetyApp::Received ACK and send to MEC at: 2.03125
+UESafetyApp::Received ACK and send to MEC at: 2.03125
 MECSafetyApp - Received message from UEs:2651and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 124.539750303672
-The migration of vehicle: 831 started at: 125.130043909521
-UESafetyApp::Received ACK and send to MEC at: 130.13625
+MECSafetyApp - Received message from UEs at: 2.031250414481
+UESafetyApp::Received ACK and send to MEC at: 2.032
+UESafetyApp::Received ACK and send to MEC at: 2.032
+UESafetyApp::Received ACK and send to MEC at: 2.0325
+MECSafetyApp - Received message from UEs:3067and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.032500303681
+MECSafetyApp - Received message from UEs:3015and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.032500414481
+UESafetyApp::Received ACK and send to MEC at: 2.03275
 MECSafetyApp - Received message from UEs:831and the mecHost is: (omnetpp::cModule)mecHost2 id=65
-MECSafetyApp - Received message from UEs at: 130.138250303676
+MECSafetyApp - Received message from UEs at: 2.032750414481
+MECSafetyApp - Received message from UEs:2755and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.032750475281
+MECSafetyApp - Received message from UEs:1923and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.033250303681
+UESafetyApp::Received ACK and send to MEC at: 2.0335
+UESafetyApp::Received ACK and send to MEC at: 2.034
+MECSafetyApp - Received message from UEs:3171and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.034000303681
+MECSafetyApp - Received message from UEs:2599and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.034250436481
+MECSafetyApp - Received message from UEs:2183and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.034500303681
+MECSafetyApp - Received message from UEs:2443and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.034750303681
+MECSafetyApp - Received message from UEs:1767and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.035000303681
+MECSafetyApp - Received message from UEs:2859and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.035500414481
+MECSafetyApp - Received message from UEs:2495and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.035750414481
+MECSafetyApp - Received message from UEs:1819and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.036250414481
+MECSafetyApp - Received message from UEs:1455and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.036750414481
+MECSafetyApp - Received message from UEs:2287and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 2.037500303681
+MECSafetyApp - Received message from UEs:2339and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 2.037500414481
+UESafetyApp::Received ACK and send to MEC at: 5.026
+UESafetyApp::Received ACK and send to MEC at: 5.66275
+MECSafetyApp - Received message from UEs:2911and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 5.666250414485
+UESafetyApp::Received ACK and send to MEC at: 12.0235
+MECSafetyApp - Received message from UEs:2703and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 12.027000303685
+UESafetyApp::Received ACK and send to MEC at: 13.0185
+MECSafetyApp - Received message from UEs:1507and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 13.020500414489
+The migration of vehicle: 2339 started at: 66.929803576719
+The migration of vehicle: 1507 started at: 69.929860356893
+The migration of vehicle: 1195 started at: 70.129818518402
+The migration of vehicle: 2391 started at: 70.329846862759
+The migration of vehicle: 1715 started at: 71.529805755336
+The migration of vehicle: 2911 started at: 71.729866708528
+UESafetyApp::Received ACK and send to MEC at: 71.936
+MECSafetyApp - Received message from UEs:2339and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 71.938000414438
+The migration of vehicle: 1767 started at: 72.529887811317
+The migration of vehicle: 1975 started at: 72.929801242399
+The migration of vehicle: 2755 started at: 72.929832180028
+The migration of vehicle: 2027 started at: 74.829814943934
+UESafetyApp::Received ACK and send to MEC at: 74.936
+MECSafetyApp - Received message from UEs:1507and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 74.944500414498
+UESafetyApp::Received ACK and send to MEC at: 75.136
+MECSafetyApp - Received message from UEs:1195and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 75.138000303698
+UESafetyApp::Received ACK and send to MEC at: 75.336
+MECSafetyApp - Received message from UEs:2391and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 75.338000414498
+The migration of vehicle: 3015 started at: 75.829828362871
+The migration of vehicle: 675 started at: 77.529814454371
+UESafetyApp::Received ACK and send to MEC at: 77.536
+MECSafetyApp - Received message from UEs:1767and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 77.542500303698
+UESafetyApp::Received ACK and send to MEC at: 77.936
+UESafetyApp::Received ACK and send to MEC at: 77.9375
+MECSafetyApp - Received message from UEs:2755and the mecHost is: (omnetpp::cModule)mecHost3 id=66
+MECSafetyApp - Received message from UEs at: 77.938000414493
+MECSafetyApp - Received message from UEs:1975and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 77.939500303698
+The migration of vehicle: 3171 started at: 78.229896948668
+The migration of vehicle: 1663 started at: 78.429821850403
+The migration of vehicle: 1923 started at: 78.529807261047
+The migration of vehicle: 2703 started at: 78.92980517489
+The migration of vehicle: 2131 started at: 79.229822437234
+UESafetyApp::Received ACK and send to MEC at: 79.836
+MECSafetyApp - Received message from UEs:2027and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 79.841006375264
+The migration of vehicle: 2183 started at: 80.429844671711
+UESafetyApp::Received ACK and send to MEC at: 82.536
+MECSafetyApp - Received message from UEs:675and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 82.538000303689
+The migration of vehicle: 1091 started at: 82.62983437814
+The migration of vehicle: 2547 started at: 83.229898997982
+The migration of vehicle: 1819 started at: 83.229938455578
+UESafetyApp::Received ACK and send to MEC at: 83.236
+MECSafetyApp - Received message from UEs:3171and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 83.238000414472
+UESafetyApp::Received ACK and send to MEC at: 83.436
+MECSafetyApp - Received message from UEs:1663and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 83.441755754472
+UESafetyApp::Received ACK and send to MEC at: 83.5375
+MECSafetyApp - Received message from UEs:1923and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 83.539500414472
+UESafetyApp::Received ACK and send to MEC at: 83.936
+MECSafetyApp - Received message from UEs:2703and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 83.938000414472
+UESafetyApp::Received ACK and send to MEC at: 84.236
+The migration of vehicle: 883 started at: 84.929838629658
+UESafetyApp::Received ACK and send to MEC at: 85.436
+MECSafetyApp - Received message from UEs:2183and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 85.441250414476
+The migration of vehicle: 1299 started at: 86.729823074322
+The migration of vehicle: 2651 started at: 86.829857688564
+The migration of vehicle: 935 started at: 87.529813183147
+UESafetyApp::Received ACK and send to MEC at: 87.636
+MECSafetyApp - Received message from UEs:1091and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 87.638000303693
+UESafetyApp::Received ACK and send to MEC at: 88.236
+UESafetyApp::Received ACK and send to MEC at: 88.2375
+MECSafetyApp - Received message from UEs:2547and the mecHost is: (omnetpp::cModule)mecHost2 id=65
+MECSafetyApp - Received message from UEs at: 88.239500303693
+MECSafetyApp - Received message from UEs:1819and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 88.289000414489
+The migration of vehicle: 1351 started at: 88.329809600037
+The migration of vehicle: 1559 started at: 88.329823096164
+UESafetyApp::Received ACK and send to MEC at: 89.9375
+MECSafetyApp - Received message from UEs:883and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 89.939500414498
+The migration of vehicle: 831 started at: 90.029835661344
+The migration of vehicle: 623 started at: 91.029849141224
+The migration of vehicle: 1403 started at: 91.12986756313
+UESafetyApp::Received ACK and send to MEC at: 91.7375
+MECSafetyApp - Received message from UEs:1299and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 91.741000414502
+UESafetyApp::Received ACK and send to MEC at: 91.839
+MECSafetyApp - Received message from UEs:2651and the mecHost is: (omnetpp::cModule)mecHost1 id=64
+MECSafetyApp - Received message from UEs at: 91.842500414502
+The migration of vehicle: 2599 started at: 91.929803412402
+The migration of vehicle: 2287 started at: 92.329797604316

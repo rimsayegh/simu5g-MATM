@@ -291,13 +291,13 @@ void LocationService::handlePOSTRequest(const HttpRequestMessage *currentRequest
     std::string uri = currentRequestMessageServed->getUri();
     std::string body = currentRequestMessageServed->getBody();
 
-    locationFile.open("loc.txt", std::ios::app);  // Open file for appending
+    /*locationFile.open("loc.txt", std::ios::app);  // Open file for appending
 
     if (locationFile.is_open()) {
 
         locationFile << "Location Service: handlePostRequest"<< std::endl;
         locationFile.close();
-    }
+    }*/
 //    // uri must be in form example/location/v2/subscriptions/sub_type
 //    // or
 //    // example/location/v2/subscriptions/type/sub_type () e.g /area/circle
@@ -324,13 +324,13 @@ void LocationService::handlePOSTRequest(const HttpRequestMessage *currentRequest
         {
             jsonBody = nlohmann::json::parse(body); // get the JSON structure
 
-            locationFile.open("loc.txt", std::ios::app);  // Open file for appending
+            /*locationFile.open("loc.txt", std::ios::app);  // Open file for appending
 
             if (locationFile.is_open()) {
 
                 locationFile << "Get the JSON structure????? Yes "<< std::endl;
                 locationFile.close();
-            }
+            }*/
 
         }
         catch(nlohmann::detail::parse_error e)
@@ -339,13 +339,13 @@ void LocationService::handlePOSTRequest(const HttpRequestMessage *currentRequest
             // body is not correctly formatted in JSON, manage it
             Http::send400Response(socket); // bad body JSON
 
-            locationFile.open("loc.txt", std::ios::app);  // Open file for appending
+           /* locationFile.open("loc.txt", std::ios::app);  // Open file for appending
 
             if (locationFile.is_open()) {
 
                 locationFile << "Get the JSON structure????? No, bad body JSON"<< std::endl;
                 locationFile.close();
-            }
+            }*/
             return;
         }
 
@@ -364,26 +364,26 @@ void LocationService::handlePOSTRequest(const HttpRequestMessage *currentRequest
 
             subscriptions_[subscriptionId_] = newSubscription;
 
-            locationFile.open("loc.txt", std::ios::app);  // Open file for appending
+            /*locationFile.open("loc.txt", std::ios::app);  // Open file for appending
 
             if (locationFile.is_open()) {
 
                 locationFile << "Correct subscription created!!!"<< std::endl;
                 locationFile.close();
-            }
+            }*/
 
 
             if(newSubscription->getCheckImmediate())
             {
                EventNotification *event = newSubscription->handleSubscription();
 
-               locationFile.open("loc.txt", std::ios::app);  // Open file for appending
+               /*locationFile.open("loc.txt", std::ios::app);  // Open file for appending
 
                if (locationFile.is_open()) {
 
                    locationFile << "create new subscription"<< std::endl;
                    locationFile.close();
-               }
+               }*/
 
                 if(event != nullptr){
                     newSubscriptionEvent(event);
@@ -411,13 +411,13 @@ void LocationService::handlePOSTRequest(const HttpRequestMessage *currentRequest
     }
     else
     {
-        locationFile.open("loc.txt", std::ios::app);  // Open file for appending
+        /*locationFile.open("loc.txt", std::ios::app);  // Open file for appending
 
         if (locationFile.is_open()) {
 
            locationFile << "Resource not found "<< std::endl;
            locationFile.close();
-        }
+        }*/
         Http::send404Response(socket); //resource not found
     }
 }
@@ -469,12 +469,12 @@ void LocationService::handlePUTRequest(const HttpRequestMessage *currentRequestM
     std::string uri = currentRequestMessageServed->getUri();
     std::string body = currentRequestMessageServed->getBody();
 
-    logFile.open("loc.txt", std::ios::app);  // Open file for appending
+    /*logFile.open("loc.txt", std::ios::app);  // Open file for appending
 
     if (logFile.is_open()) {
         logFile << " handlePUTRequest" << std::endl;
         logFile.close();
-    }
+    }*/
     // uri must be in form example/location/v2/subscriptions/sub_type/subId
     // or
     // example/location/v2/subscriptions/type/sub_type/subId
