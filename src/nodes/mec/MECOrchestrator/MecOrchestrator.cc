@@ -28,7 +28,7 @@
 #include "nodes/mec/MECOrchestrator/mecHostSelectionPolicies/AvailableResourcesSelectionBased.h"
 #include "nodes/mec/MECOrchestrator/mecHostSelectionPolicies/MecHostSelectionBased.h"
 #include "nodes/mec/MECOrchestrator/mecHostSelectionPolicies/BestSelectionBased.h"
-#include "nodes/mec/MECOrchestrator/mecHostSelectionPolicies/LoadAware.h"
+#include "nodes/mec/MECOrchestrator/mecHostSelectionPolicies/DLBM.h"
 
 #include <fstream>
 //emulation debug
@@ -68,8 +68,8 @@ void MecOrchestrator::initialize(int stage)
     else if(!strcmp(par("selectionPolicy"), "BestHostBased"))
         mecHostSelectionPolicy_ = new BestSelectionBased(this);
 
-    else if(!strcmp(par("selectionPolicy"), "LoadAware"))
-        mecHostSelectionPolicy_ = new LoadAware(this);
+    else if(!strcmp(par("selectionPolicy"), "DLBM"))
+        mecHostSelectionPolicy_ = new DLBM(this, par("alpha"), par("betta"), par("lamda"));
     //L2S-ESME
     else
         throw cRuntimeError("MecOrchestrator::initialize - Selection policy %s not present!" , par("selectionPolicy").stringValue());

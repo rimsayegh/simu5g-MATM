@@ -9,20 +9,23 @@
 // and cannot be removed from it.
 //
 
-#ifndef NODES_MEC_MECORCHESTRATOR_MECHOSTSELECTIONPOLICIES_LOADAWARE_H_
-#define NODES_MEC_MECORCHESTRATOR_MECHOSTSELECTIONPOLICIES_LOADAWARE_H_
+#ifndef NODES_MEC_MECORCHESTRATOR_MECHOSTSELECTIONPOLICIES_DLBM_H_
+#define NODES_MEC_MECORCHESTRATOR_MECHOSTSELECTIONPOLICIES_DLBM_H_
 
 #include "nodes/mec/MECOrchestrator/mecHostSelectionPolicies/SelectionPolicyBase.h"
 
 //class MecOrchestrator;
 
-class LoadAware : public SelectionPolicyBase
+class DLBM : public SelectionPolicyBase
 {
     protected:
+        double alpha_;
+        double betta_;
+        double lamda_;
         virtual cModule* findBestMecHost(const ApplicationDescriptor&) override;
     public:
-        LoadAware(MecOrchestrator* mecOrchestrator):SelectionPolicyBase(mecOrchestrator){}
-      virtual ~LoadAware(){}
+        DLBM(MecOrchestrator* mecOrchestrator, double alpha, double betta, double lamda);
+      virtual ~DLBM(){}
 };
 
 

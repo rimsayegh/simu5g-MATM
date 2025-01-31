@@ -80,7 +80,7 @@ class MecOrchestrator : public cSimpleModule
     friend class MecHostSelectionBased;
     //L2S-ESME
     friend class BestSelectionBased;
-    friend class LoadAware;
+    friend class DLBM;
     //L2S-ESME
 
     SelectionPolicyBase* mecHostSelectionPolicy_;
