@@ -31,7 +31,7 @@ EXPORTS
     _Z10linearToDbd @30
     _Z10rlcTypeToAB5cxx1110LteRlcType @31
     _Z10showCircledN4inet5CoordEPN7omnetpp7cModuleEPNS1_11cOvalFigureE @32
-    _Z10writeToCSVN7omnetpp7SimTimeENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEdddddddddddddddPNS_7cModuleEddd @33
+    _Z10writeToCSVN7omnetpp7SimTimeENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEdddddddddddddddddPNS_7cModuleEddd @33
     _Z10writetoCSVN7omnetpp7SimTimeEdddd @34
     _Z11aToNodeTypeNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE @35
     _Z11dBmToLineard @36

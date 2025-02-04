@@ -161,6 +161,15 @@ void UESafetyApp::initialize(int stage)
         }
 
 
+
+        SAFile.open("Vinfo.txt", std::ios::app);  // Open file for appending
+
+         if (SAFile.is_open()) {
+             SAFile << " X: "<< coord.x << " Y :" << coord.y << " Speed: " << Speed << " DataRate: " << DataRate_ << std::endl;
+             SAFile.close();
+         }
+
+
         //Write data in the dataset
         writetoCSV(simTime(), x, y, Speed, DataRate_);
 

@@ -48,7 +48,7 @@ DLBM::DLBM(MecOrchestrator* mecOrchestrator,double alpha, double betta, double l
 }
 
 //Write in a csv file
-void writeToCSV(simtime_t time, std::string Type, double Vehicle_x, double Vehicle_y, double Distance1,double Distance2,double Distance3, double Min_Distance, double Max_Distance, double MEC_Load1,double MEC_Load2, double MEC_Load3, double Min_Load, double Max_Load, double LBD,
+void writeToCSV(simtime_t time, std::string Type, double Vehicle_x, double Vehicle_y, double Speed, double DataRate,double Distance1,double Distance2,double Distance3, double Min_Distance, double Max_Distance, double MEC_Load1,double MEC_Load2, double MEC_Load3, double Min_Load, double Max_Load, double LBD,
                 double CF1, double CF2, cModule* Best_MEC, double alpha, double betta, double lamda) {
     csvFile.open("metrics_log.csv", std::ios::app);
 
@@ -57,12 +57,14 @@ void writeToCSV(simtime_t time, std::string Type, double Vehicle_x, double Vehic
 
         static bool headerWritten = false;
         if (!headerWritten) {
-            csvFile << "Time,Type,Vehicle_x,Vehicle_y,Distance1,Distance2,Distance3,Min_Distance,Max_Distance,MEC_Load,Min_Load,Max_Load,LBD,CF1,CF2,Best_MEC,alpha,betta,lamda\n";
+            csvFile << "Time,Type,Vehicle_x,Vehicle_y,Speed,DataRate,Distance1,Distance2,Distance3,Min_Distance,Max_Distance,MEC_Load,Min_Load,Max_Load,LBD,CF1,CF2,Best_MEC,alpha,betta,lamda\n";
             headerWritten = true;
         }
 
         csvFile << time << ","
                 << Type << ","
+                << Speed << ","
+                << DataRate << ","
                 << Vehicle_x << ","
                 << Vehicle_y << ","
                 << Distance1 << ","
@@ -237,6 +239,23 @@ cModule* DLBM::findBestMecHost(const ApplicationDescriptor& appDesc)
         }
     }
     vehicleFile.close();
+
+    //Reat the Speed and data rate
+    std::ifstream vFile("Vinfo.txt");
+        double Speed = 0;
+        double DataRate = 0;
+        if (std::getline(vFile, line))
+        {
+            std::stringstream ss(line);
+            std::string temp;
+
+            while (ss >> temp) {  // Read words
+                if (temp == "Speed:") ss >> Speed;
+                if (temp == "DataRate:") ss >> DataRate;
+            }
+        }
+        vFile.close();
+        removeFirstLineFromFile("Vinfo.txt");
 
     int Flag = 0;
 
@@ -441,7 +460,7 @@ cModule* DLBM::findBestMecHost(const ApplicationDescriptor& appDesc)
         double Load3 = std::get<1>(bestHosts[2]);
         double C1 = std::get<3>(bestHosts[0]);
         double C2 = std::get<4>(bestHosts[0]);
-        writeToCSV(simTime(), Type, vehicleX, vehicleY, bestDistance,Distance2, Distance3, minDistance, maxDistance, bestLoad,Load2, Load3, minLoad, maxLoad, LBD, C1, C2, bestMecHost, alpha_, betta_, lamda_);
+        writeToCSV(simTime(), Type, vehicleX, vehicleY, Speed, DataRate, bestDistance,Distance2, Distance3, minDistance, maxDistance, bestLoad,Load2, Load3, minLoad, maxLoad, LBD, C1, C2, bestMecHost, alpha_, betta_, lamda_);
 
         return bestMecHost;
     }
@@ -515,7 +534,7 @@ cModule* DLBM::findBestMecHost(const ApplicationDescriptor& appDesc)
         double Load3 = std::get<1>(bestHosts[2]);
         double C1 = std::get<3>(bestHosts[0]);
         double C2 = std::get<4>(bestHosts[0]);
-        writeToCSV(simTime(), Type, vehicleX, vehicleY, bestDistance,Distance2, Distance3, minDistance, maxDistance, bestLoad,Load2, Load3, minLoad, maxLoad, LBD, C1, C2, closestMecHost, alpha_, betta_, lamda_);
+        writeToCSV(simTime(), Type, vehicleX, vehicleY, Speed, DataRate, bestDistance,Distance2, Distance3, minDistance, maxDistance, bestLoad,Load2, Load3, minLoad, maxLoad, LBD, C1, C2, closestMecHost, alpha_, betta_, lamda_);
 
         return closestMecHost;  // Return the closest MEC host
     }
