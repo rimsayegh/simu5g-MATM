@@ -34,6 +34,7 @@
 std::ofstream RsFile;
 std::ofstream UTsFile;
 std::ofstream Track;
+std::ofstream csvFile;
 
 std::vector<double> pastLBDs; // Store the past LBD values globally
 std::vector<double> pastLoads;
@@ -46,6 +47,49 @@ DLBM::DLBM(MecOrchestrator* mecOrchestrator,double alpha, double betta, double l
      lamda_ = lamda;
 }
 
+//Write in a csv file
+void writeToCSV(simtime_t time, std::string Type, double Vehicle_x, double Vehicle_y, double Distance1,double Distance2,double Distance3, double Min_Distance, double Max_Distance, double MEC_Load1,double MEC_Load2, double MEC_Load3, double Min_Load, double Max_Load, double LBD,
+                double CF1, double CF2, cModule* Best_MEC, double alpha, double betta, double lamda) {
+    csvFile.open("metrics_log.csv", std::ios::app);
+
+    if (csvFile.is_open()) {
+        csvFile << std::fixed << std::setprecision(10);
+
+        static bool headerWritten = false;
+        if (!headerWritten) {
+            csvFile << "Time,Type,Vehicle_x,Vehicle_y,Distance1,Distance2,Distance3,Min_Distance,Max_Distance,MEC_Load,Min_Load,Max_Load,LBD,CF1,CF2,Best_MEC,alpha,betta,lamda\n";
+            headerWritten = true;
+        }
+
+        csvFile << time << ","
+                << Type << ","
+                << Vehicle_x << ","
+                << Vehicle_y << ","
+                << Distance1 << ","
+                << Distance2 << ","
+                << Distance3 << ","
+                << Min_Distance << ","
+                << Max_Distance << ","
+                << MEC_Load1 << ","
+                << MEC_Load2 << ","
+                << MEC_Load3 << ","
+                << Min_Load << ","
+                << Max_Load << ","
+                << LBD << ","
+                << CF1 << ","
+                << CF2 << ","
+                << Best_MEC << ","
+                << alpha << ","
+                << betta << ","
+                << lamda << "\n";
+
+        csvFile.close();
+    } else {
+        EV << "Error: Could not open CSV file!" << endl;
+    }
+}
+
+//Read the locations of BSs
 std::vector<std::pair<std::string, std::pair<double, double>>> readBaseStations(const std::string &filename) {
     std::ifstream bsFile(filename);
     std::vector<std::pair<std::string, std::pair<double, double>>> baseStations;
@@ -386,6 +430,18 @@ cModule* DLBM::findBestMecHost(const ApplicationDescriptor& appDesc)
 
             Track.close();
         }
+        //Save the data in the dataset
+        std::string Type;
+        Type = "Load Aware";
+        double bestDistance = std::get<2>(bestHosts[0]);
+        double Distance2 = std::get<2>(bestHosts[1]);
+        double Distance3 = std::get<2>(bestHosts[2]);
+        double bestLoad = std::get<1>(bestHosts[0]);
+        double Load2 = std::get<1>(bestHosts[1]);
+        double Load3 = std::get<1>(bestHosts[2]);
+        double C1 = std::get<3>(bestHosts[0]);
+        double C2 = std::get<4>(bestHosts[0]);
+        writeToCSV(simTime(), Type, vehicleX, vehicleY, bestDistance,Distance2, Distance3, minDistance, maxDistance, bestLoad,Load2, Load3, minLoad, maxLoad, LBD, C1, C2, bestMecHost, alpha_, betta_, lamda_);
 
         return bestMecHost;
     }
@@ -448,6 +504,19 @@ cModule* DLBM::findBestMecHost(const ApplicationDescriptor& appDesc)
 
             Track.close();
         }
+        //Add Data to the Dataset
+        std::string Type;
+        Type = "Distance Aware";
+        double bestDistance = std::get<2>(bestHosts[0]);
+        double Distance2 = std::get<2>(bestHosts[1]);
+        double Distance3 = std::get<2>(bestHosts[2]);
+        double bestLoad = std::get<1>(bestHosts[0]);
+        double Load2 = std::get<1>(bestHosts[1]);
+        double Load3 = std::get<1>(bestHosts[2]);
+        double C1 = std::get<3>(bestHosts[0]);
+        double C2 = std::get<4>(bestHosts[0]);
+        writeToCSV(simTime(), Type, vehicleX, vehicleY, bestDistance,Distance2, Distance3, minDistance, maxDistance, bestLoad,Load2, Load3, minLoad, maxLoad, LBD, C1, C2, closestMecHost, alpha_, betta_, lamda_);
+
         return closestMecHost;  // Return the closest MEC host
     }
 

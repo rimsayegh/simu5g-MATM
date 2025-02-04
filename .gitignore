@@ -15,6 +15,7 @@ src/Makefile.vc
 *.vec
 *.vci
 *.anf
+*.csv
 *.qtenvrc
 .settings/
 err/

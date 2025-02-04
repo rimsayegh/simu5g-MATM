@@ -52,6 +52,7 @@ using namespace std;
 
 std::ofstream SAFile;
 std::ofstream dFile;
+std::ofstream csvdata;
 
 Define_Module(UESafetyApp);
 
@@ -76,6 +77,29 @@ inet::Coord getcoord(cModule* mod)
     return mobility_->getCurrentPosition();
 }
 
+void writetoCSV(simtime_t time, double Vehicle_x, double Vehicle_y, double Speed, double DataRate) {
+    csvdata.open("Info_log.csv", std::ios::app);
+
+    if (csvdata.is_open()) {
+        csvdata << std::fixed << std::setprecision(10);
+
+        static bool headerWritten = false;
+        if (!headerWritten) {
+            csvdata << "Time,Vehicle_x,Vehicle_y,Speed,DataRate\n";
+            headerWritten = true;
+        }
+
+        csvdata << time << ","
+                << Vehicle_x << ","
+                << Vehicle_y << ","
+                << Speed << ","
+                << DataRate << "\n";
+
+        csvdata.close();
+    } else {
+        EV << "Error: Could not open CSV file!" << endl;
+    }
+}
 void UESafetyApp::initialize(int stage)
 {
     EV << "UEWarningAlertApp::initialize - stage " << stage << endl;
@@ -115,6 +139,7 @@ void UESafetyApp::initialize(int stage)
     //retrieving car cModule
     ue = this->getParentModule();
 
+    DataRate_ = par("DataRate");
     //retrieving mobility module
     cModule *temp = getParentModule()->getSubmodule("mobility");
     if(temp != NULL){
@@ -124,6 +149,9 @@ void UESafetyApp::initialize(int stage)
        //inet::IMobility *mobility_ = check_and_cast<inet::IMobility *>(temp);
        //mobility_->getCurrentPosition();
        inet::Coord coord = getcoord(ue);
+       double Speed = mobility->getMaxSpeed();
+       double x = coord.x;
+       double y = coord.y;
 
        SAFile.open("Vehicle.txt", std::ios::app);  // Open file for appending
 
@@ -131,6 +159,11 @@ void UESafetyApp::initialize(int stage)
             SAFile << "Coordinates: ["<< coord.x << ";" << coord.y << "]" << std::endl;
             SAFile.close();
         }
+
+
+        //Write data in the dataset
+        writetoCSV(simTime(), x, y, Speed, DataRate_);
+
        //L2S-ESME
     }
     else {
@@ -149,7 +182,6 @@ void UESafetyApp::initialize(int stage)
     UE_name_ = par("deviceAppAddress").stringValue();
     log= false;
 
-    DataRate_ = par("DataRate");
     //maxCpuSpeed_ = par("maxCpuSpeed");
     //App_name_ = par("name").stringValue();
 
