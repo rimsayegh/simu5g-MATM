@@ -420,7 +420,7 @@ void MecOrchestrator::stopMECApp(UALCMPMessage* msg){
          OFile.open("output.txt", std::ios::app);
 
          if (OFile.is_open()) {
-             OFile << "The application deleted with context Id: " << std::endl;
+             OFile << "The application deleted with context Id: "<< contextId << std::endl;
              OFile.close();
          }
      }

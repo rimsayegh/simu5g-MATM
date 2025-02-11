@@ -63,10 +63,10 @@ void writeToCSV(simtime_t time, std::string Type, double Vehicle_x, double Vehic
 
         csvFile << time << ","
                 << Type << ","
-                << Speed << ","
-                << DataRate << ","
                 << Vehicle_x << ","
                 << Vehicle_y << ","
+                << Speed << ","
+                << DataRate << ","
                 << Distance1 << ","
                 << Distance2 << ","
                 << Distance3 << ","
@@ -450,7 +450,7 @@ cModule* DLBM::findBestMecHost(const ApplicationDescriptor& appDesc)
             Track.close();
         }
         //Save the data in the dataset
-        std::string Type;
+        /*std::string Type;
         Type = "Load Aware";
         double bestDistance = std::get<2>(bestHosts[0]);
         double Distance2 = std::get<2>(bestHosts[1]);
@@ -461,7 +461,7 @@ cModule* DLBM::findBestMecHost(const ApplicationDescriptor& appDesc)
         double C1 = std::get<3>(bestHosts[0]);
         double C2 = std::get<4>(bestHosts[0]);
         writeToCSV(simTime(), Type, vehicleX, vehicleY, Speed, DataRate, bestDistance,Distance2, Distance3, minDistance, maxDistance, bestLoad,Load2, Load3, minLoad, maxLoad, LBD, C1, C2, bestMecHost, alpha_, betta_, lamda_);
-
+*/
         return bestMecHost;
     }
     else{
@@ -524,7 +524,7 @@ cModule* DLBM::findBestMecHost(const ApplicationDescriptor& appDesc)
             Track.close();
         }
         //Add Data to the Dataset
-        std::string Type;
+        /*std::string Type;
         Type = "Distance Aware";
         double bestDistance = std::get<2>(bestHosts[0]);
         double Distance2 = std::get<2>(bestHosts[1]);
@@ -535,7 +535,7 @@ cModule* DLBM::findBestMecHost(const ApplicationDescriptor& appDesc)
         double C1 = std::get<3>(bestHosts[0]);
         double C2 = std::get<4>(bestHosts[0]);
         writeToCSV(simTime(), Type, vehicleX, vehicleY, Speed, DataRate, bestDistance,Distance2, Distance3, minDistance, maxDistance, bestLoad,Load2, Load3, minLoad, maxLoad, LBD, C1, C2, closestMecHost, alpha_, betta_, lamda_);
-
+*/
         return closestMecHost;  // Return the closest MEC host
     }
 
