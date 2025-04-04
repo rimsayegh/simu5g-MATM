@@ -407,6 +407,7 @@ EventNotification* CircleNotificationSubscription::handleSubscription()
             continue; // TODO manage what to do
         inet::Coord coord = LocationUtils::getCoordinates(it->first);
         inet::Coord center = inet::Coord(latitude,longitude,0.);
+        inet::Coord  speed = LocationUtils::getSpeed(it->first);
 //        EV << "center: [" << latitude << ";"<<longitude << "]"<<endl;
 //        EV << "coord: [" << coord.x << ";"<<coord.y << "]"<<endl;
 //        EV << "distance: " << coord.distance(center) <<endl;
@@ -417,9 +418,10 @@ EventNotification* CircleNotificationSubscription::handleSubscription()
                 it->second = true;
                 EV << "dentro" << endl;
                 found = true;
-                vID = it->first; //L2S-ESME
+                vID = it->first; //L2S-ESME //MacNodeId
                 this->isEnter = "Yes";   //L2S-ESME
 
+                int intVId = getAPPID(); //L2S-ESME //int Id
                 count+= 1;
                 //L2S-ESME
                  EnFile.open("Enter.txt", std::ios::app);  // Open file for appending
@@ -439,7 +441,13 @@ EventNotification* CircleNotificationSubscription::handleSubscription()
                       VeFile.close();
                   }
 
+                 VeFile.open("Speed.txt", std::ios::app);  // Open file for appending
 
+                  if (VeFile.is_open()) {
+                       VeFile << "VId: "<< intVId << ";" << "Speed: ["<< speed.x << ";" << speed.y << "]" << std::endl;
+
+                       VeFile.close();
+                   }
                  //L2S-ESME
 
             }

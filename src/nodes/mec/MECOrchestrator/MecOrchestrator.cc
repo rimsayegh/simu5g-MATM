@@ -29,6 +29,7 @@
 #include "nodes/mec/MECOrchestrator/mecHostSelectionPolicies/MecHostSelectionBased.h"
 #include "nodes/mec/MECOrchestrator/mecHostSelectionPolicies/BestSelectionBased.h"
 #include "nodes/mec/MECOrchestrator/mecHostSelectionPolicies/DLBM.h"
+#include "nodes/mec/MECOrchestrator/mecHostSelectionPolicies/RL.h"
 
 #include <fstream>
 //emulation debug
@@ -70,6 +71,10 @@ void MecOrchestrator::initialize(int stage)
 
     else if(!strcmp(par("selectionPolicy"), "DLBM"))
         mecHostSelectionPolicy_ = new DLBM(this, par("alpha"), par("betta"), par("lamda"));
+
+    else if(!strcmp(par("selectionPolicy"), "RL"))
+            mecHostSelectionPolicy_ = new RL(this, par("alpha"), par("betta"), par("lamda"));
+
     //L2S-ESME
     else
         throw cRuntimeError("MecOrchestrator::initialize - Selection policy %s not present!" , par("selectionPolicy").stringValue());
@@ -942,6 +947,13 @@ void MecOrchestrator::sendMigrationNotification(int vehicleId)
 
     if (OFile.is_open()) {
         OFile << "The vehicle Id successfully received by the Orchestrator, it is : "<< vehicleId << std::endl;
+        OFile.close();
+    }
+
+    OFile.open("Migrate.txt", std::ios::app);  // Open file for appending
+
+    if (OFile.is_open()) {
+        OFile << "VId: "<< vehicleId << std::endl;
         OFile.close();
     }
 

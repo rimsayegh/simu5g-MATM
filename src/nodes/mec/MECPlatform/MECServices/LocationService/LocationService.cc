@@ -528,6 +528,7 @@ void LocationService::handlePUTRequest(const HttpRequestMessage *currentRequestM
           {
                 EV << "Subscription is for Entering event." << endl;
                 int VehID = sub->getAPPID();
+                //MacNodeId VmacId = sub->getVID(); //for user info
 
                 EV << "LocationService::handlePUTRequest - Migration"<< endl;
 

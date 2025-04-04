@@ -19,6 +19,8 @@
 #include "nodes/mec/MECPlatform/MECServices/LocationService/resources/LocationApiDefs.h"
 #include "nodes/mec/MECPlatform/MECServices/LocationService/resources/TerminalLocation.h"
 
+#include "nodes/mec/MECPlatform/MECServices/LocationService/resources/LocationResource.h"
+
 class LteBinder;
 class CircleNotificationSubscription : public SubscriptionBase
 {
